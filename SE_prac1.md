@@ -1,5 +1,3 @@
-# Srija Ma'am — SET-6 + SET-7 Exam Process Guide
-
 ## Git + Maven + Docker | Exam-ready command reference
 
 This sheet combines the operation patterns from **SET-6 (Sports Management System)** and **SET-7 (Apartment Management System)** into one implementation-oriented guide.
